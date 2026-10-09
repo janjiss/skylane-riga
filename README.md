@@ -2,7 +2,7 @@
 
 A flying-car racer over a vertical future Rīga, inspired by Beam Breakers (2002). Built with three.js.
 
-**Play:** https://janjiss.github.io/skylane-riga/
+**Play:** https://janis.wtf/skylane-riga/
 
 This repository holds only the built game (static files for GitHub Pages).
 

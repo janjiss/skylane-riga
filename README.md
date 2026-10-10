@@ -1,4 +1,4 @@
-# Skylane: Rīga 2149
+# Skylane: Neo Rīga 2149
 
 A flying-car racer over a vertical future Rīga, inspired by Beam Breakers (2002). Built with three.js.
 

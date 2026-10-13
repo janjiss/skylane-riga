@@ -2,7 +2,10 @@
 
 A flying-car racer over a vertical future Rīga, inspired by Beam Breakers (2002). Built with three.js.
 
-**Play:** https://janis.wtf/skylane-riga/
+**Play:** https://neoriga.janis.wtf/
+
+Sign in from the menu to save your story, cars and credits across devices. Guest play keeps progress on
+the current device. Login and cloud saves are served by a Go API on a Raspberry Pi through Cloudflare Tunnel.
 
 This repository holds only the built game (static files for GitHub Pages).
 
